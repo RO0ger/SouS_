@@ -10,5 +10,7 @@ project.xcworkspace
 
 # Secrets - Ignore API Keys file
 SouS/Utils/APIKeys.swift 
+SouS/Secrets.plist
+SouS/SouSApp.swift
 
 .DS_Store 
