@@ -38,4 +38,6 @@ SouS is an iOS application that helps users prepare personalized meals based on 
      - Complete ingredient list
      - Step-by-step cooking instructions
 
-SouS creates a personalized cooking experience by connecting available ingredients with individual health goals and preferences. 
+SouS creates a personalized cooking experience by connecting available ingredients with individual health goals and preferences.
+_
+Made with ❤️ by Nasif
